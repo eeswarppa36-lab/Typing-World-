@@ -1,0 +1,6 @@
+{
+  "name": "Typing World",
+  "description": "Learn, practice and master your typing skills level by level with interactive keyboard lessons and real-time typing challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
